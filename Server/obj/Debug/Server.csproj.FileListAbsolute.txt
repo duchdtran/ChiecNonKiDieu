@@ -1,0 +1,8 @@
+D:\LTM\Multichat\Server\bin\Debug\Server.exe
+D:\LTM\Multichat\Server\bin\Debug\Server.exe.config
+D:\LTM\Multichat\Server\bin\Debug\Server.pdb
+D:\LTM\Multichat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LTM\Multichat\Server\obj\Debug\Server.Form1.resources
+D:\LTM\Multichat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\LTM\Multichat\Server\obj\Debug\Server.exe
+D:\LTM\Multichat\Server\obj\Debug\Server.pdb
